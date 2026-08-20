@@ -3,7 +3,7 @@ name: Regenerate security lockfile
 on:
   push:
     branches:
-      - security/dependency-updates
+      - security/dependency-updates-2
 
 permissions:
   contents: write
